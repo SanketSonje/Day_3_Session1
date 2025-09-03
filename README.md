@@ -52,7 +52,7 @@ Add the following JSON inside your **VS Code user snippets** (`File > Preference
     "description": "HTML5 boilerplate (prefix: html5)"
   }
 }
-
+```
 ## How to Use
 Open VS Code → Create a new HTML file.
 Type html5 and press Tab / Enter.
@@ -92,7 +92,7 @@ console.log("Sum:", sum);
 let product = multiply(num1, num2);
 console.log("Product:", product);
 console.log("Program finished.");
-
+```
 #🔹 Steps to Debug in VS Code
 Open this project in VS Code.
 Create a folder named .vscode.
