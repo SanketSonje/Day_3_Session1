@@ -2,7 +2,7 @@
 Emmet is a toolkit for web developers that speeds up the process of writing HTML and CSS by using abbreviations that 
 expand into full code snippets. It's a huge time-saver and helps you write code faster and more efficiently.
 
-# 🔹 Why
+# Why
 - Saves time while writing repetitive HTML code.  
 - Reduces typos by generating properly structured elements.  
 - Makes writing nested structures quicker and more consistent.
@@ -13,7 +13,7 @@ Gist Link : https://gist.github.com/SanketSonje/21b5dacb8443c553591a22431aa36480
 Writing the same HTML5 structure repeatedly is time-consuming.  
 With a **VS Code snippet**, you can type a short prefix (e.g., `html5`) and instantly expand it into a complete boilerplate template.
 
-## 🔹 Why
+## Why
 - Save time by avoiding repetitive typing.  
 - Maintain consistency across projects.  
 - Easily start new HTML files with best practices built-in.  
@@ -57,20 +57,20 @@ Add the following JSON inside your **VS Code user snippets** (`File > Preference
 Open VS Code → Create a new HTML file.
 Type html5 and press Tab / Enter.
 
-## 🔹 Overview of JS debugging in VS Code
+## Overview of JS debugging in VS Code
 Debugging is the process of **finding and fixing errors** by running code step-by-step.  
 VS Code has a built-in debugger that works seamlessly with Node.js for JavaScript projects.
 
 ---
 
-## 🔹 Why
+## Why
 - Understand how the program executes.  
 - Inspect variable values in real time.  
 - Catch logic errors without relying only on `console.log()`.  
 
 ---
 
-## 🔹 Code Example (`app.js`)
+## Code Example (`app.js`)
 
 ```js
 // app.js
@@ -93,10 +93,9 @@ let product = multiply(num1, num2);
 console.log("Product:", product);
 console.log("Program finished.");
 ```
-#🔹 Steps to Debug in VS Code
+# Steps to Debug in VS Code
 Open this project in VS Code.
 Create a folder named .vscode.
 Inside .vscode, create a file named launch.json.
 Add the configuration below.
 The snippet expands into a full HTML5 boilerplate with placeholders
-
